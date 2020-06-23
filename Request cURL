@@ -1,1 +1,0 @@
-curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Barcelona&zip=08004&lang=en&mode=json&appid=f1e415b992b55f13668514f1979ca872" -H "accept: application/json"
